@@ -100,7 +100,7 @@ type = "signup"
 price = "free"
 
 # link to the registration or ticket purchase page
-link = "https://lu.ma/30e3ctlk"
+link = "https://lu.ma/guardians"
 
 # custom action button label
 #button = "Register"
