@@ -99,6 +99,8 @@ properties:
         - ethereum
         - cosmos
         - polkadot
+        - solana
+        - arbitrum
         - monero
         - cardano
         - lisk

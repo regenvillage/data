@@ -60,7 +60,7 @@ attendees = 65
 
 # # blockchains that the event deals with
 # # if it is an interchain event, then leave blank
-# chains = ["solana"]
+chains = ["solana"]
 
 # # tags for the event, will show up as labels.
 # # pick 1-4

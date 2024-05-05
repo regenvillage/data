@@ -1,0 +1,7 @@
+name = "Solana"
+symbol = "SOL"
+logo = "solana.png"
+
+[links]
+web = "https://solana.com/"
+twitter = "https://twitter.com/solana"
