@@ -1,0 +1,12 @@
+name = "Spielfeld"
+eventTypes = ["conference", "meetup"]
+capacity = 100
+address = "Skalitzer Straße 85/86, 10997 Berlin"
+mapUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Skalitzer+Stra%C3%9Fe+85%2F86%2C+10997+Berlin"
+description = '''
+Spielfeld is a coworking space and event venue for entrepreneurs, startups and corporates.
+'''
+photo = "logo.png"
+
+[links]
+web = "https://www.spielfeld.com/"

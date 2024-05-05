@@ -95,6 +95,7 @@ properties:
       type: string
       enum:
         - bitcoin
+        - celo
         - ethereum
         - cosmos
         - polkadot
