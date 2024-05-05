@@ -1,0 +1,11 @@
+name = "CV Labs @ Lisk Centre"
+eventTypes = ["conference", "meetup"]
+# capacity = 100
+address = "Köpenicker Str. 126, 10179 Berlin"
+mapUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=K%C3%B6penicker+Str.+126%2C+10179+Berlin"
+description = '''
+'''
+photo = "logo.png"
+
+[links]
+web = "https://www.cvlabs.com/"
