@@ -1,0 +1,63 @@
+name = "Web3 Talk #24: Gaming and Extended Reality in Web3"
+
+shortname = "Gaming & XR in Web3"
+
+types = ["meetup"]
+
+status = "published"
+
+org = "DAO.Researcher"
+
+dri = "znerual56"
+
+poc = "Laurenz L."
+
+date = "2024-05-27"
+
+days = 1
+
+times = "19:00-21:00"
+
+venueName = "Spreegold Bikini Berlin, 1st floor, Co-working area"
+
+venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Budapester+Str.+50%2C+10787+Berlin"
+
+venueAddress = "Budapester Str. 50, 10787 Berlin"
+
+languages = ["english"]
+
+attendees = 150
+
+chains = []
+
+tags = ["gaming", "xr", "metaverse", "extendedreality"]
+
+logo = "gaming.webp"
+
+description = """
+Gamers welcome! Connect to like-minded enthusiasts from Berlin's creative Web3-, Metaverse, AI, and Blockchain scene!
+For years, the Web3 space discussed how Blockchain could support gaming, and how the gaming industry could make use of AI, XR (Extended Reality), and the Metaverses. Slowly, the games industry adopted Web3 and AI technologies, and Apple launched Vision Pro. We will discuss the latest trends with industrie insiders and take a look at the future of artificial intelligence in games, and games in the Metaverses. Our speakers:
++ CEO of a games company
++ CTO of a XR company
++ Lawyer and gaming industry consultant
++ Games magazine journalist
+"""
+
+# [cfp]
+# link = "https://linktr.ee/Laurenz_L"
+
+[registration]
+type = "signup"
+
+price = "0 EUR"
+
+link = "http://bit.ly/Gaming-and-XR"
+
+button = "Sign up for free here!"
+
+status = "available"
+
+[links]
+web = "http://bit.ly/Gaming-and-XR"
+
+docs = "https://daoResearcher.org/"
