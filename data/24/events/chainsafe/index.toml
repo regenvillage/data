@@ -78,8 +78,8 @@ Discover cutting-edge advancements driving the future of open-source, public goo
 # pick 1-4
 # A logo attachment
 # a description of the event.
-[cfp]
-link = "https://lu.ma/csconberlin"
+# [cfp]
+# link = "https://lu.ma/csconberlin"
 
 [registration]
 type = "signup"

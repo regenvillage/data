@@ -82,9 +82,9 @@ description = """
 ​- Get your hands on some of our Merch
 """
 
-[cfp]
+# [cfp]
 # link to call for particioation
-link = "https://lu.ma/32mmm5em"
+# link = "https://lu.ma/32mmm5em"
 
 [registration]
 # type of registration
