@@ -89,7 +89,7 @@ Immerse yourself in insightful discussions with the biggest brains in the Web3 g
 type = "tickets"
 
 # price of the ticket
-price = "0 EUR"
+price = "Free"
 
 # link to the registration or ticket purchase page
 link = "https://lu.ma/buidlberlin"
