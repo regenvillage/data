@@ -47,7 +47,7 @@ venues = ["spielfeld"]
 languages = ["english"]
 
 # the max number of attendees of the event
-attendees = 600
+attendees = 150
 
 # blockchains that the event deals with
 # if it is an interchain event, then leave blank
@@ -65,7 +65,7 @@ description = """
 Celo Gather 2024 is a one-day conference organized by Celo Europe, bringing together stakeholders from the Celo community to foster collaboration, share insights, and explore the future of the Celo ecosystem.
 
 Date: May 24th, 2024
-Location: Selina Berlin Mitte Rooftop, Rungestraße 20, 10179 Berlin
+Location: Spielfeld Digital Hub
 
 Join us for a day of thought-provoking discussions, presentations, and networking opportunities focused on topics such as governance, decentralized finance (DeFi), real-world assets (RWA), and community building.
 
