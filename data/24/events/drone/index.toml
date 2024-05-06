@@ -1,8 +1,8 @@
 # the name of your event
-name = "First in the World Web3 Drone Corridor Launch"
+name = "First Web3 Drone Corridor in the World"
 
 # shortest possible name (without year)
-shortname = "Web3 Drone Launch"
+shortname = "Web3 Drone Corridor"
 
 # type of the event
 #  available types (you can choose more):
@@ -22,7 +22,7 @@ types = ["other"]
 status = "published"
 
 # the name of the group organizing the event
-org = "Staex"
+org = "Staex GmbH"
 
 # the github handle of the directly responsible individual for this event
 # (this person will coordinate with #bbw24 organizers)
@@ -38,19 +38,19 @@ date = "2024-05-21"
 days = 1
 
 # the event times (shows up in the event card)
-times = "15:00-16:00"
+times = "14:00-17:00"
 
 # Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
 # venues = "Im Marienpark, Berlin, https://marienpark.berlin/"
 
 # the event venue name
-venueName = "Im Marienpark"
+venueName = "Alter Wasserturm im Marienpark"
 
 # link to the venue on google maps
 venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Im+Marienpark+12107+Berlin"
 
 # the event venue address
-venueAddress = "Im Marienpark, 12107 Berlin Tempelhof-Schöneberg"
+venueAddress = "Im Marienpark, Berlin"
 
 # the languages in which the event will take place (you can choose more)
 languages = ["english"]
@@ -60,32 +60,39 @@ attendees = 100
 
 # blockchains that the event deals with
 # if it is an interchain event, then leave blank
-chains = ["lisk"]
+chains = ["ethereum", "lisk"]
 
 # tags for the event, will show up as labels.
 # pick 1-4
-tags = ["machine-to-machine", "machine payments", "Web2 co using Web3 tools", "drones"]
+tags = ["drones", "Web3", "German tech", "M2M"]
+
 
 # A logo attachment
-logo = "logo.png"
+logo = "drone.jpg"
 
 # a description of the event.
+# a description of the event.
 description = """
-Invitation to the official Web3 Drone Corridor launch in Berlin
+An actual industry usage of Web3 tools...A public-private partnership realizing the next in assets sharing, data collection, permit- and contract handling, and machine payments. All of this will be automated with Staex for reliability and security allowing partners across sectors and industries to work with one another. With the use of Web3 tools, we have neutral grounds, built-in trust, smart-contracts, verified immutable data, and machine-to-machine payments.
 
-An Actual Industry Usage of Web3 Tools
+We are ready to show you a glimpse of the future. Join us for the best-of-breed German technology.
 
-Join us for the World's First Web3 Drone Corridor launch on May 21st, 2024. Don't miss out on German best-of-breed technologies featuring reliable and secure data capturing, communication, and processing incl. payment. Secure your spot and be an active participant purchasing your photo (data) realtime that will be captured by a drone utilizing machine-to-machine payments.
+Meet the future-forward Staex partners:
+Vantage Towers AG, owner of 84,000+ telco towers across Europe;
+REWE Group's paymenttools responsible for 50,000+ payment terminals across Europe; 
+Lightcurve, Lisk platform for L2 of Ethereum;
+Germandrones GmbH, high-performance drones for surveillance and reconnaissance globally; 
+Investa for Im Marienpark, and
+Berlin Partner für Wirtschaft und Technologie GmbH representing the Berlin State ecosystem and innovation.
 
-Here's what to expect:
+Dr. Severin Fischer, Staatssekretär in der Senatsverwaltung für Wirtschaft, Energie und Betriebe des Landes Berlin will open up the event. 
 
-When: May 21st, 2024, at 15:00.
-If you are press or a Staex partner, your event starts at 14:00.
 """
 
-[cfp]
+
+# [cfp]
 # link to call for particioation
-link = "https://staex.io/web3-drone-corridor"
+# link = "https://staex.io/web3-drone-corridor"
 
 [registration]
 # type of registration
@@ -93,13 +100,13 @@ link = "https://staex.io/web3-drone-corridor"
 #   * tickets
 #   * invites
 #   * signup
-type = "signup"
+type = "tickets"
 
 # price of the ticket
 price = "FREE!"
 
 # link to the registration or ticket purchase page
-#link = "https://staex.io/web3-drone-corridor-announcement"
+link = "https://www.eventbrite.de/e/official-web3-drone-corridor-launch-in-berlin-tickets-877818236977?aff=oddtdtcreator"
 
 # custom action button label
 #button = "Register now!"
