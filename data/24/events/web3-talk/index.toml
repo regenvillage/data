@@ -20,7 +20,7 @@ times = "19:00-21:00"
 
 venueName = "Spreegold Bikini Berlin, 1st floor, Co-working area"
 
-venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Budapester+Str.+50%2C+10787+Berlin"
+venueUrl = "https://nominatim.openstreetmap.org/ui/details.html?osmtype=N&osmid=5354555535&class=amenity"
 
 venueAddress = "Budapester Str. 50, 10787 Berlin"
 
