@@ -57,7 +57,7 @@ chains = ["ethereum", "polygon"]
 # pick 1-4
 tags = ["zero knowledge", "cryptography", "payments", "usdc"]
 
-logo = "zkwine.gif"
+logo = "zkwine.jpg"
 # A logo attachment
 
 # a description of the event.
