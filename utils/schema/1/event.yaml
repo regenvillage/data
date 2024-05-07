@@ -104,6 +104,7 @@ properties:
         - monero
         - cardano
         - lisk
+        - polygon
         - other
   difficulty:
     type: string
