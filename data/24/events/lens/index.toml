@@ -29,7 +29,7 @@ dri = "parisrouzati"
 poc = "Paris Rouzati"
 
 # the start date of the event
-date = "2024-05-24"
+date = "2024-05-23"
 
 # how many days the event lasts (1 - N)
 days = 1
