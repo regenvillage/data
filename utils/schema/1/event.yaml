@@ -96,6 +96,7 @@ properties:
       enum:
         - bitcoin
         - celo
+        - base
         - ethereum
         - cosmos
         - polkadot
