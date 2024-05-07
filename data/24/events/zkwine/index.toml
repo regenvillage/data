@@ -2,7 +2,7 @@
 name = "zk wine berlin"
 
 # shortest possible name (without year)
-shortname = "zkwineberlin"
+shortname = "zk wine berlin"
 
 # type of the event
 #  available types (you can choose more):
@@ -57,7 +57,7 @@ chains = ["ethereum", "polygon"]
 # pick 1-4
 tags = ["zero knowledge", "cryptography", "payments", "usdc"]
 
-logo = "zkwine.jpg"
+logo = "zkwine.png"
 # A logo attachment
 
 # a description of the event.
