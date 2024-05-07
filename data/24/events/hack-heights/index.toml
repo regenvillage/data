@@ -22,7 +22,7 @@ types = ["meetup"]
 status = "published"
 
 # the name of the group organizing the event
-org = "KICKOFF The Graph, Chainlink, Deutsche Telekom MMS - HACKATHON Chainlink, The Graph, Plurality Network, Pinax, Deutsche Telekom and Soonami"
+org = "Chainlink, The Graph and Deutsche Telekom"
 
 # the github handle of the directly responsible individual for this event
 # (this person will coordinate with #bbw24 organizers)
