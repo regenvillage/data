@@ -1,0 +1,138 @@
+# the name of your event
+name = "AdEx Web3 Marketers Meet Up & Drinks"
+
+# shortest possible name (without year)
+shortname = "AdEx Web3 Marketers Meet Up"
+
+# type of the event
+#  available types (you can choose more):
+#   * meetup
+#   * conference
+#   * hackathon
+#   * expo
+#   * party
+#   * other
+types = ["meetup"]
+
+# status of the event
+#  available types:
+#   * idea
+#   * planning
+#   * published
+status = "published"
+
+# the name of the group organizing the event
+org = "AdEx"
+
+# the github handle of the directly responsible individual for this event
+# (this person will coordinate with #bbw24 organizers)
+dri = "dmngdsm"
+
+# A point of contact (responsible person)
+poc = "Ivan Manchev"
+
+# the start date of the event
+date = "2024-05-22"
+
+# how many days the event lasts (1 - N)
+days = 1
+
+# the event times (shows up in the event card)
+times = "19:30-22:30"
+
+# Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
+# venues =
+
+# the event venue name
+venueName = "East Side Bar Berlin"
+
+# link to the venue on open-street maps
+venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Stralauer+Pl.+30-31"
+
+# the event venue address
+venueAddress = "Stralauer Pl. 30-31, 10243 Berlin, Germany"
+
+# the languages in which the event will take place (you can choose more)
+languages = ["english"]
+
+# the max number of attendees of the event
+attendees = 35
+
+# blockchains that the event deals with
+# if it is an interchain event, then leave blank
+chains = []
+
+# tags for the event, will show up as labels.
+# pick 1-4
+tags = ["Web3", "marketing", "AI", "ZK"]
+
+logo = "adex-event.jpg" # A logo attachment
+
+# a description of the event.
+description = """
+Are you a Web3 marketer tired of developer conferences and tech topics? Do you want to discuss community, points and shitposting with fellow nerds? We got you covered.
+
+​Join us for our second Web3 marketers gathering - a smooth Berliner evening of drinks and networking at the East Side Bar, just two minutes away from the Dappcon venue.
+
+​We're bringing together a carefully selected group of Web3 marketers with simple agenda in mind: all about forging connections, exchanging ideas, and building a vibrant community.
+
+​
+What's in store:
+
+​Intimate Atmosphere: We're keeping it cozy with a small group to ensure genuine conversations.
+
+​Networking Opportunities: Chat with peers who share your values and pains.
+
+​Views and Drinks: Grab a cocktail and nibble on tasty finger foods while enjoying the rooftop view. The bar is just a 2 min walk away from the DappCon venue.
+
+​About AdEx:
+AdEx is a cutting-edge decentralized advertising platform delving deep into AI and zero-knowledge (ZK) technology for campaign optimization, ensuring the best value for our advertisers. Currently being relaunched as a Demand-Side Platform (DSP), AdEx is pioneering programmatic advertising in the Web3 space. Our goal is to bridge the gap between the Web3 and Web2 spaces, maximizing the impact of targeted advertising.
+"""
+
+[cfp]
+# link to call for particioation
+link = "https://lu.ma/su2j996r"
+
+[registration]
+# type of registration
+#  Possible values:
+#   * tickets
+#   * invites
+#   * signup
+type = "invites"
+
+# price of the ticket
+price = "free"
+
+# link to the registration or ticket purchase page
+link = "https://lu.ma/su2j996r"
+
+# custom action button label
+#button = "Request to Join!"
+
+# status of registrations
+#  Possible values:
+#   * available
+#   * sold-out
+#   * closed
+status = "available"
+
+[links]
+# the website of the event
+# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+web = "https://lu.ma/su2j996r"
+
+# twitter account
+twitter = "https://twitter.com/AdEx_Ads"
+
+# public matrix channel
+# matrix = ""
+
+# public telegram group
+telegram = "https://t.me/adexweb3advertising"
+
+# docs
+#docs = ""
+
+# discord
+# discord = ""
