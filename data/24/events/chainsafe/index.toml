@@ -86,7 +86,7 @@ type = "signup"
 
 price = "free"
 
-link = "https://lu.ma/csconberlin"
+link = "https://lu.ma/chainsafe"
 
 # link to call for particioation
 # type of registration
@@ -107,7 +107,7 @@ status = "available"
 #   * sold-out
 #   * closed
 [links]
-web = "https://lu.ma/csconberlin"
+web = "https://lu.ma/chainsafe"
 
 twitter = "https://twitter.com/ChainSafeth"
 
