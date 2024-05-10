@@ -45,7 +45,7 @@ times = "14:00-18:00"
 # venues = ["NEST Schank- und Speisewirtschaft"]
 
 # the event venue name
-venueName = "Next Schank- und Speisewirtschaf"
+venueName = "NEST Schank- und Speisewirtschaft"
 
 # link to the venue on open-street maps
 venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=G%C3%B6rlitzer+Str.+52"
