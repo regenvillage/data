@@ -39,7 +39,7 @@ date = "2024-05-23"
 days = 1
 
 # the event times (shows up in the event card)
-times = "11:OO-15:00"
+times = "11:00-15:00"
 
 # Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
 # venues = ["NEST Schank- und Speisewirtschaft"]
