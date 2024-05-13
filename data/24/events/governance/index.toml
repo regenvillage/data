@@ -7,7 +7,7 @@ shortname = "Governance, subjective rules and RWAs - the frontier of crypto"
 # type of the event
 #  available types (you can choose more):
 #   * meetup
-types = ["meetup"]
+types = ["conference"]
 
 # status of the event
 status = "published"
