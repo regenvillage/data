@@ -1,0 +1,142 @@
+# the name of your event
+name = "Blockhaus Afterparty by LUKSO with Google Cloud, SheFi & Guild"
+
+# shortest possible name (without year)
+shortname = "Blockhaus Afterparty"
+
+# type of the event
+#  available types (you can choose more):
+#   * meetup
+#   * conference
+#   * hackathon
+#   * expo
+#   * party
+#   * other
+types = ["party"]
+
+# status of the event
+#  available types:
+#   * idea
+#   * planning
+#   * published
+status = "published"
+
+# the name of the group organizing the event
+org = "Lukso"
+
+# the github handle of the directly responsible individual for this event
+# (this person will coordinate with #bbw24 organizers)
+dri = "louiejoconnor"
+
+# A point of contact (responsible person)
+poc = "louiejoconnor"
+
+# the start date of the event
+date = "2024-05-24"
+
+# how many days the event lasts (1 - N)
+days = 1
+
+# the event times (shows up in the event card)
+times = "20:00-02:00"
+
+# Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
+# venues = ["hubraum"]
+
+# the event venue name
+# venueName = "hubraum – Tech Incubator of Deutsche Telekom"
+
+# # link to the venue on google maps
+# venueUrl = "https://maps.app.goo.gl/Sip1scE6UjS97cqQ6"
+
+# # the event venue address
+# venueAddress = "Winterfeldtstraße 21, 10781 Berlin, Germany"
+
+# the languages in which the event will take place (you can choose more)
+languages = ["english"]
+
+# the max number of attendees of the event
+attendees = 200
+
+# blockchains that the event deals with
+# if it is an interchain event, then leave blank
+chains = []
+
+# tags for the event, will show up as labels.
+# pick 1-4
+tags = []
+
+# A logo attachment
+logo = "lukso-party.jpeg"
+
+# a description of the event.
+description = """
+Join us in Berlin with [Google Cloud](https://twitter.com/googlecloud), [SheFi](https://twitter.com/shefiorg), and [Guild](https://twitter.com/guildxyz), with onsite activations by [Proof:of by Ensō](https://twitter.com/enso_collective) and [DistrictVR](https://twitter.com/TheDistrictVR), as we wrap UP Berlin Blockchain Week with a party you won’t want to miss. 
+
+**​THE PLAYGROUNDS:** 
+**☁️ Rooftop:** Google Cloud Zen Lounge
+**🥐 4th Floor:** She-Fi and Snacks
+**🎛️ 3rd Floor:** Pink Disco Zone
+
+**​BEAT IMMERSION:**
+**8pm - 10pm:** Ahmed & Jappa (B-2-B)
+**10pm - 11:30pm:** [Denyo](https://g.co/kgs/K31cbYd) ([DistrictVR](https://twitter.com/TheDistrictVR)) 
+**11:30pm onwards:** [LEDFUT](https://twitter.com/ledfut_dj) ([DistrictVR](https://twitter.com/TheDistrictVR))
+
+**​DETAILS** 
+**📅 Date:** May 24th, 2024
+**🕒 Time:** 8pm - late
+
+​RSVP required for all attendees.
+
+Create your Universal Profile before attending to be able to engage with the event activations – get started [here](https://universalprofile.cloud/).
+
+"""
+
+# [cfp]
+# # link to call for particioation
+# link = "https://lu.ma/pk3i9gqv"
+
+[registration]
+# type of registration
+#  Possible values:
+#   * tickets
+#   * invites
+#   * signup
+type = "signup"
+
+# price of the ticket
+price = "FREE"
+
+# link to the registration or ticket purchase page
+link = "https://lu.ma/ok55cmmf"
+
+# custom action button label
+#button = "Get tickets!"
+
+# status of registrations
+#  Possible values:
+#   * available
+#   * sold-out
+#   * closed
+status = "available"
+
+[links]
+# the website of the event
+# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+# web = "https://lu.ma/pk3i9gqv"
+
+# twitter account
+# twitter = "https://twitter.com/JobitedCom"
+
+# public matrix channel
+# matrix =
+
+# public telegram group
+# telegram = "https://t.me/+CvSX8NKQrn02YWZi"
+
+# docs
+#docs =
+
+# discord
+# discord =
