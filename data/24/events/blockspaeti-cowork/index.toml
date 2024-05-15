@@ -1,0 +1,110 @@
+# # the name of your event
+name = "WebZero BlockSpäti Co-Working"
+
+# # shortest possible name (without year)
+shortname = "WebZero BlockSpäti"
+
+# # type of the event
+# #  available types (you can choose more):
+# #   * meetup
+# #   * conference
+# #   * hackathon
+# #   * expo
+# #   * party
+# #   * other
+types = ["other"]
+
+# # status of the event
+# #  available types:
+# #   * idea
+# #   * planning
+# #   * published
+status = "published"
+
+# # the name of the group organizing the event
+org = "WebZero"
+
+# # the github handle of the directly responsible individual for this event
+# # (this person will coordinate with #bbw24 organizers)
+dri = "blacklodge430"
+
+# # A point of contact (responsible person)
+poc = "Roman Kemper"
+
+# # the start date of the event
+date = "2024-05-21"
+
+# # how many days the event lasts (1 - N)
+days = 4
+
+# # the event times (shows up in the event card)
+times = "10:00-15:00"
+
+# # Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
+# venues = 
+
+# # the event venue name
+venueName = "NEST"
+
+# # link to the venue on open street maps
+venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=G%C3%B6rlitzer+Str.+52%2C+10997+Berlin"
+
+# # the event venue address
+venueAddress = "Görlitzer Str. 52, 10997 Berlin"
+
+# # the languages in which the event will take place (you can choose more)
+languages = ["english"]
+
+# # the max number of attendees of the event
+attendees = 120
+
+# # blockchains that the event deals with
+# # if it is an interchain event, then leave blank
+# chains = ["example"]
+
+# # tags for the event, will show up as labels.
+# # pick 1-4
+tags = ["Co-Working", "protocol-agnostic", "Networking", "Education"]
+
+# # A logo attachment
+logo = "blockspat.jpg"
+
+# # a description of the event.
+description = """
+Spend Berlin Blockchain Week in true Berlin style by working from a traditional crypto Spätkauf.
+
+​Come co-work, enjoy a crypto-branded mate, try out a quest and network with builders, founders and creators in the space.
+
+​We’ll have snacks, beverages and a Starlink router to keep your WiFi at super strength all day long.
+"""
+
+[registration]
+# # type of registration
+# #  Possible values:
+# #   * tickets
+# #   * invites
+# #   * signup
+type = "signup"
+
+# # price of the ticket
+price = "free"
+
+# # link to the registration or ticket purchase page
+link = "https://lu.ma/joinwebzero"
+
+# # custom action button label
+# #button = "Buy tickets!"
+
+[links]
+# # the website of the event
+# # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+web = "https://lu.ma/joinwebzero"
+
+# # twitter account
+twitter = "https://twitter.com/joinwebzero"
+
+# # public telegram group
+telegram = "https://t.me/joinWebzero"
+
+# # docs
+# #docs = "https://example.org/docs"
