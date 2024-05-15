@@ -68,7 +68,7 @@ chains = ["ethereum"]
 tags = ["AI", "crypto"]
 
 # A logo attachment
-logo = "logo.jpg"
+logo = "logo.png"
 
 # a description of the event.
 description = """

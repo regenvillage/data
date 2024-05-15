@@ -63,7 +63,7 @@ chains = []
 tags = ["devrel", "cryptography", "rollups", "account abstraction", "l2s"]
 
 # A logo attachment
-logo = "zkspaeti.jpg"
+logo = "logo.png"
 
 # a description of the event.
 description = """

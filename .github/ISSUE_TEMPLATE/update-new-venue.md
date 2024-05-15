@@ -3,8 +3,7 @@ name: Update/New Venue
 about: Ask us to update or add a new event location to the Berlin Blockchain Week website
 title: "[NEW]: "
 labels: new
-assignees: ''
-
+assignees: ""
 ---
 
 Please use this template to suggest a new event location or update an existing one for the BBW website! You can also directly [submit your event as a pull request](https://github.com/blockchainweek/data/tree/main/data/24/places) to this repository. This will speed up things significantly!
@@ -38,7 +37,7 @@ Example Venue is an ecosystem of over 3,500 members from more than 70 nations lo
 '''
 
 # Venue Photo or Logo
-photo = "photo.jpg"
+photo = "logo.png"
 
 # Venue Link
 [links]
