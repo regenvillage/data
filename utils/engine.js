@@ -220,13 +220,34 @@ class DeConf_Collection {
       // add Event Segments
       if (!data.index.segments) {
         data.index.segments = [];
-        for (let i = 0; i < data.index.days; i++) {
-          data.index.segments.push({
-            date: format(addDays(new Date(data.index.date), i), "yyyy-MM-dd"),
-            times: data.index.times || "09:00-18:00",
-          });
+        // Set ETHBErlin times manually
+        if (data.index.shortname === "ETHBerlin") {
+          data.index.segments = [
+            {
+              date: "2024-05-24",
+              times: "12:00-23:59",
+            },
+            {
+              date: "2024-05-25",
+              times: "00:00-23:59",
+            },
+            {
+              date: "2024-05-26",
+              times: "00:00-20:00",
+            },
+          ];
+        } else {
+          // All other events
+          for (let i = 0; i < data.index.days; i++) {
+            data.index.segments.push({
+              date: format(addDays(new Date(data.index.date), i), "yyyy-MM-dd"),
+              times: data.index.times || "09:00-18:00",
+            });
+          }
         }
       }
+
+      // Add full start and end Dates
       for (const sg of data.index.segments) {
         if (sg.remote) {
           continue;
