@@ -38,7 +38,7 @@ date = "2024-05-25"
 days = 1
 
 # the event times (shows up in the event card)
-times = "09:00-20:00"
+times = "10:00-23:59"
 
 # Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
 # venues = ["MOOS Space"]
@@ -76,7 +76,7 @@ Join us during Berlin Blockchain Week for the Breadchain Launch Event at the Moo
 
 The series of events that will take place for the full event include 
 
-1) a ~[real hands on sourdough bread baking workshop](https://www.eventbrite.de/e/sourdough-bread-workshop-tickets-903864481997)~ led by Edible Alchemy, the bakery at Moos, to give a chance to people who work on their computers all day to work with their hands and meet with other solidarity loving folks  (limited availability so please purchase tickets beforehand)
+1) a [real hands on sourdough bread baking workshop](https://www.eventbrite.de/e/sourdough-bread-workshop-tickets-903864481997) led by Edible Alchemy, the bakery at Moos, to give a chance to people who work on their computers all day to work with their hands and meet with other solidarity loving folks  (limited availability so please purchase tickets beforehand)
 
 2) presentations from Breadchain Cooperative members and associated projects building out technology for scaling solidarity with BREAD
 
