@@ -106,6 +106,7 @@ properties:
         - cardano
         - lisk
         - polygon
+        - celestia
         - other
   difficulty:
     type: string
