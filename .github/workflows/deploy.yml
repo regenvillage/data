@@ -5,6 +5,9 @@ env:
   DENO_DIR: /home/runner/.deno-cache
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
 concurrency:
   group: "pages"
   cancel-in-progress: true
