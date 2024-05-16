@@ -128,7 +128,7 @@ class DeConf_Package {
     // load year index
     pkg.index = await _tomlLoad([...specDir, "index.toml"].join("/"));
     pkg.index.dataUrl = [this.engine.publicUrl, this.id].join("/");
-    pkg.index.exploreUrl = [this.engine.exploreUrl, this.id].join("/");
+    pkg.index.exploreUrl = [this.engine.exploreUrl].join("/");
     pkg.index.dataGithubUrl = [this.engine.githubUrl, this.id].join("/");
     //console.log(`\n##\n## [${pkg.index.name}] \n##`);
     // load sub-events
