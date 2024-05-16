@@ -1,7 +1,0 @@
-name = "Arbitrum"
-symbol = "ARB"
-logo = "arbitrum.png"
-
-[links]
-web = "https://arbitrum.io/"
-twitter = "https://twitter.com/arbitrum"

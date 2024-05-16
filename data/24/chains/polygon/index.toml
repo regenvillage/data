@@ -1,7 +1,0 @@
-name = "Polygon"
-symbol = "MATIC"
-logo = "polygon.png"
-
-[links]
-web = "https://polygon.technology/"
-twitter = "https://twitter.com/0xPolygon"

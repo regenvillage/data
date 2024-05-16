@@ -1,6 +1,0 @@
-name = "Bitcoin"
-symbol = "BTC"
-logo = "logo.webp"
-
-[links]
-web = "https://bitcoin.org/"
