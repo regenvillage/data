@@ -25,7 +25,7 @@ status = "planning"
 org = "Example place"
 
 # the github handle of the directly responsible individual for this event
-# (this person will coordinate with #bbw24 organizers)
+# (this person will coordinate with Regen Village organizers)
 dri = "john007"
 
 # A point of contact (responsible person)
@@ -47,10 +47,10 @@ times = "09:00-20:00"
 venueName = "Example venue"
 
 # link to the venue on open street maps
-venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Rungestra%C3%9Fe+20+10179+Berlin"
+venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=becentral"
 
 # the event venue address
-venueAddress = "Rungestraße 20, 10179 Berlin"
+venueAddress = "Cantersteen 12, 1000 Bruxelles"
 
 # the languages in which the event will take place (you can choose more)
 languages = ["english"]

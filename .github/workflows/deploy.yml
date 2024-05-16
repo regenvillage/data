@@ -1,7 +1,7 @@
 name: Test, build, deploy
 env:
   ENTRY: 24
-  GH_PAGES_DOMAIN: blockchainweek.github.io
+  GH_PAGES_DOMAIN: regenvillage.github.io
   DENO_DIR: /home/runner/.deno-cache
 on:
   workflow_dispatch:
@@ -27,7 +27,7 @@ jobs:
           deno-version: v1.x
       - uses: szenius/set-timezone@v1.1
         with:
-          timezoneLinux: "Europe/Berlin"
+          timezoneLinux: "Europe/Brussels"
       - run: sudo apt install -y webp
       - run: make install
       - run: make imgs
@@ -76,7 +76,7 @@ jobs:
           name: release
       - uses: montudor/action-zip@v1
       - run: unzip -qq release.zip
-      - run: "zip -qq -r ../bbw-${{ env.ENTRY }}-${{ env.TAG }}.zip ${{ env.ENTRY }}"
+      - run: "zip -qq -r ../regen-village-${{ env.ENTRY }}-${{ env.TAG }}.zip ${{ env.ENTRY }}"
         working-directory: ./dist
       - uses: rickstaa/action-create-tag@v1
         with:
@@ -91,4 +91,4 @@ jobs:
           draft: false
           prerelease: false
           files: |
-            bbw-${{ env.ENTRY }}-${{ env.TAG }}.zip
+            regen-village-${{ env.ENTRY }}-${{ env.TAG }}.zip

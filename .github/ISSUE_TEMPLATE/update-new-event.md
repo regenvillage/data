@@ -1,12 +1,12 @@
 ---
 name: Update/New Event
-about: Ask us to update or add a new event to the Berlin Blockchain Week website
+about: Ask us to update or add a new event to the Regen Village website
 title: "[NEW]: "
 labels: new
 assignees: ""
 ---
 
-Please use this template to suggest a new event or update an existing event for the BBW website! You can also directly [submit your event as a pull request](https://github.com/blockchainweek/data/tree/main/data/24/events) to this repository. This will speed up things significantly!
+Please use this template to suggest a new event or update an existing event for the Regen Village website! You can also directly [submit your event as a pull request](https://github.com/regenvillage/data/tree/main/data/24/events) to this repository. This will speed up things significantly!
 
 ```toml
 # the name of your event
@@ -36,7 +36,7 @@ status = "planning"
 org = "Example place"
 
 # the github handle of the directly responsible individual for this event
-# (this person will coordinate with #bbw24 organizers)
+# (this person will coordinate with Regen Village organizers)
 dri = "john007"
 
 # A point of contact (responsible person)
@@ -58,10 +58,10 @@ times = "09:00-20:00"
 venueName = "Example venue"
 
 # link to the venue on open-street maps
-venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Rungestra%C3%9Fe+20+10179+Berlin"
+venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=becentral"
 
 # the event venue address
-venueAddress = "Rungestraße 20, 10179 Berlin"
+venueAddress = "Cantersteen 12, 1000 Bruxelles"
 
 # the languages in which the event will take place (you can choose more)
 languages = ["english"]

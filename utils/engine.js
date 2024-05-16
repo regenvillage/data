@@ -20,11 +20,11 @@ export class DeConfEngine {
     this.tag = this.options.tag || "dev";
     this.srcDir = this.options.srcDir || "./data";
     this.outputDir = this.options.outputDir || "./dist";
-    this.publicUrl = this.options.publicUrl || "https://duplicity6-sulfur-objet0-air1.protocol.berlin";
+    this.publicUrl = this.options.publicUrl || "https://regenvillage.github.io/data";
     this.exploreUrl = this.options.exploreUrl ||
-      "https://blockchainweek.berlin";
+      "https://regenvillage.github.io/explore";
     this.githubUrl = this.options.githubUrl ||
-      "https://github.com/blockchainweek/data/tree/main/data";
+      "https://github.com/regenvillage/data/tree/main/data";
 
     if (options.silent) {
       _silentMode = true;
