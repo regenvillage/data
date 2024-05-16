@@ -1,28 +1,21 @@
-# Berlin Blockchain Week (BBW)
+# Regen Village
 
-[![Test, build, deploy](https://github.com/blockchainweek/data/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/blockchainweek/data/actions/workflows/deploy.yml)
+[![Test, build, deploy](https://github.com/regenvillage/data/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/regenvillage/data/actions/workflows/deploy.yml)
 
-A data-first decentralized conference website developed by
-[UTXO Foundation](https://utxo.foundation/) for Prague.
+A data-first decentralized conference website.
 
-We use this GitHub repository to coordinate event listings for **Berlin**.
+We use this GitHub repository to coordinate event listings.
 
-- 💽 Data: [duplicity6-sulfur-objet0-air1.protocol.berlin](https://duplicity6-sulfur-objet0-air1.protocol.berlin)
-- 🕵️ Explore: [blockchainweek.berlin](https://blockchainweek.berlin)
+- 💽 Data: [https://regenvillage.github.io/data/](https://regenvillage.github.io/data/)
+- 🕵️ Explore: [https://regenvillage.github.io/explore/](https://regenvillage.github.io/explore/)
 
 You can use JSON Hero to view the data:
-[`/24/index.json` @ JSON Hero](https://jsonhero.io/new?url=https://duplicity6-sulfur-objet0-air1.protocol.berlin/24/index.json)
+[`/24/index.json` @ JSON Hero](https://jsonhero.io/new?url=https://regenvillage.github.io/data/24/index.json)
 
 ## Want to add your own event?
 
 Go to the issues, hit **NEW** and choose **UPDATE/NEW EVENT**:
-* https://github.com/blockchainweek/data/issues/new/choose
-
-## Follow us!
-
-- Web: [blockchainweek.berlin](https://blockchainweek.berlin)
-- Twitter: [@BerBlockWeek](https://twitter.com/BerBlockWeek)
-- Matrix: [#blockchainweek:dod.ngo](https://matrix.to/#/%23blockchainweek:dod.ngo)
+* https://github.com/regenvillage/data/issues/new/choose
 
 ## License
 
