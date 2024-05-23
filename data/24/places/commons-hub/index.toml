@@ -26,7 +26,7 @@ The Commons Hub Brussels is a shared place to meet, co-create, work and organise
 '''
 
 # Venue Photo or Logo
-logo = "logo.jpg"
+photo = "logo.jpg"
 
 # Venue Link
 [links]
