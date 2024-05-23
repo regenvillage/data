@@ -35,6 +35,7 @@ properties:
         - expo
         - party
         - other
+        - gathering
   status:
     type: string
     enum:
