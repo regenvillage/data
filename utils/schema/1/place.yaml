@@ -27,6 +27,7 @@ properties:
         - expo
         - party
         - other
+        - gathering
   capacity:
     type: number
   address:
