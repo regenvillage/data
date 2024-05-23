@@ -1,8 +1,8 @@
 # the name of your event
-name = "Example Event 2024"
+name = "Regen Village"
 
 # shortest possible name (without year)
-shortname = "Example"
+shortname = "Regen Village"
 
 # type of the event
 #  available types (you can choose more):
@@ -12,30 +12,30 @@ shortname = "Example"
 #   * expo
 #   * party
 #   * other
-types = ["meetup"]
+types = ["gathering"]
 
 # status of the event
 #  available types:
 #   * idea
 #   * planning
 #   * published
-status = "planning"
+status = "published"
 
 # the name of the group organizing the event
-org = "Example place"
+org = "Regens Unite"
 
 # the github handle of the directly responsible individual for this event
 # (this person will coordinate with Regen Village organizers)
-dri = "john007"
+dri = "Leen Schelfhout"
 
 # A point of contact (responsible person)
-poc = "John Appleseed"
+poc = "Leen Schelfhout"
 
 # the start date of the event
-date = "2024-05-23"
+date = "2024-07-08"
 
 # how many days the event lasts (1 - N)
-days = 3
+days = 5
 
 # the event times (shows up in the event card)
 times = "09:00-20:00"
@@ -44,13 +44,13 @@ times = "09:00-20:00"
 # venues = ["gabriel-loci"]
 
 # the event venue name
-venueName = "Example venue"
+venueName = "Commons Hub"
 
 # link to the venue on open street maps
-venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=becentral"
+venueUrl = "https://maps.app.goo.gl/x1K2C7pVCW6yVwde7"
 
 # the event venue address
-venueAddress = "Cantersteen 12, 1000 Bruxelles"
+venueAddress = "Rue de la Madeleine 51, 1000 Brussels, Belgium"
 
 # the languages in which the event will take place (you can choose more)
 languages = ["english"]
@@ -86,7 +86,7 @@ type = "tickets"
 price = "100 EUR"
 
 # link to the registration or ticket purchase page
-link = "https://example.org/tickets"
+link = "https://www.regensunite.earth/event/regenvillage"
 
 # custom action button label
 #button = "Buy tickets!"
@@ -101,13 +101,13 @@ status = "available"
 [links]
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-web = "https://example.org/"
+web = "https://www.regensunite.earth/event/regenvillage"
 
 # twitter account
-twitter = "https://twitter.com/ExampleConf"
+twitter = "https://twitter.com/regensunite"
 
 # public telegram group
-telegram = "https://t.me/example"
+telegram = "https://t.me/+VM5mWk3S2mthYzM5"
 
 # docs
 #docs = "https://example.org/docs"
