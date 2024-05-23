@@ -41,16 +41,16 @@ days = 5
 times = "09:00-20:00"
 
 # Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
-# venues = ["gabriel-loci"]
+venues = ["commons-hub"]
 
 # the event venue name
-venueName = "Commons Hub"
+# venueName = "Commons Hub"
 
 # link to the venue on open street maps
-venueUrl = "https://maps.app.goo.gl/x1K2C7pVCW6yVwde7"
+# venueUrl = "https://maps.app.goo.gl/x1K2C7pVCW6yVwde7"
 
 # the event venue address
-venueAddress = "Rue de la Madeleine 51, 1000 Brussels, Belgium"
+# venueAddress = "Rue de la Madeleine 51, 1000 Brussels, Belgium"
 
 # the languages in which the event will take place (you can choose more)
 languages = ["english"]
